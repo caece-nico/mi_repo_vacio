@@ -1,0 +1,1 @@
+print("El archivo de frontend está casi listo")
